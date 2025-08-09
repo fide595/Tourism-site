@@ -1,0 +1,4 @@
+// Example: Add a message when page loads
+document.addEventListener("DOMContentLoaded", () => {
+    console.log("Welcome to Explore Kenya!");
+});

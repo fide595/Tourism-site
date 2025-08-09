@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Explore Kenya</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>Explore Kenya</h1>
+        <nav>
+            <a href="#destinations">Destinations</a>
+            <a href="#about">About</a>
+            <a href="#contact">Contact</a>
+        </nav>
+    </header>
+
+    <section id="hero">
+        <h2>Discover the Beauty of Kenya</h2>
+        <p>From the savannahs to the coast, adventure awaits you!</p>
+    </section>
+
+    <section id="destinations">
+        <h2>Top Destinations</h2>
+        <div class="cards">
+            <div class="card">
+                <img src="https://source.unsplash.com/400x300/?kenya,safari" alt="Safari">
+                <h3>Masai Mara</h3>
+                <p>Experience the Great Migration and rich wildlife.</p>
+            </div>
+            <div class="card">
+                <img src="https://source.unsplash.com/400x300/?kenya,beach" alt="Beach">
+                <h3>Diani Beach</h3>
+                <p>Relax on the white sandy beaches of the coast.</p>
+            </div>
+            <div class="card">
+                <img src="https://source.unsplash.com/400x300/?kenya,mountain" alt="Mountain">
+                <h3>Mount Kenya</h3>
+                <p>Climb Africa's second highest peak.</p>
+            </div>
+        </div>
+    </section>
+
+    <section id="about">
+        <h2>About Us</h2>
+        <p>We are dedicated to showcasing the beauty and culture of Kenya to the world.</p>
+    </section>
+
+    <section id="contact">
+        <h2>Contact</h2>
+        <p>Email us: info@explorekenya.com</p>
+    </section>
+
+    <footer>
+        <p>© 2025 Explore Kenya. All Rights Reserved.</p>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>
